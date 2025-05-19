@@ -1,7 +1,7 @@
 RFC 2350 CSIRT Blibli 
  
 1. Informasi Mengenai Dokumen 
-Dokumen ini berisi deskripsi CSIRT Blibli.com berdasarkan RFC 2350, yaitu informasi dasar mengenai CSIRT Blibli.com, menjelaskan tanggung jawab, layanan yang diberikan, dan cara untuk menghubungi CSIRT Blibli.com.   
+Dokumen ini berisi deskripsi CSIRT Blibli berdasarkan RFC 2350, yaitu informasi dasar mengenai CSIRT blibli, menjelaskan tanggung jawab, layanan yang diberikan, dan cara untuk menghubungi CSIRT blibli.   
  
  
 1.1. Tanggal Update Terakhir 
@@ -16,7 +16,7 @@ Dokumen ini tersedia pada portal berikut:
 https://github.com/CSIRT-BLIBLI/CSIRT-Blibli--RFC-2350/new/main
  
 1.4. Keaslian Dokumen 
-Dokumen asli terdapat 3 jenis, berbahasa Indonesia, berbahasa Inggris, dan file txt berbahasa Indonesia. Ketiga dokumen telah ditanda tangani dengan PGP Key milik CSIRT Blibli.com. Untuk lebih jelas dapat dilihat pada Subbab 2.8. 
+Dokumen asli terdapat 3 jenis, berbahasa Indonesia, berbahasa Inggris, dan file txt berbahasa Indonesia. Ketiga dokumen telah ditanda tangani dengan PGP Key milik CSIRT blibli. Untuk lebih jelas dapat dilihat pada Subbab 2.8. 
  
 1.5  Identifikasi Dokumen 
 Dokumen memiliki atribut, yaitu :  
@@ -27,8 +27,8 @@ Dokumen memiliki atribut, yaitu :
  
 2. Informasi Data/Kontak 
 2.1. Nama Tim 
-	Kepanjangan dari 	: 	Cyber Security Incident Response Team - Blibli.com 
-	Disingkat 	: 	CSIRT Blibli.com 
+	Kepanjangan dari 	: 	Cyber Security Incident Response Team - blibli 
+	Disingkat 	: 	CSIRT blibli 
  
  
 2.2. Alamat 
@@ -68,21 +68,21 @@ PnfkUazWBSkBAOBIw0UeaLqn5jcO1Dd2hn9vTV8VQaXoVfVz+qkFytUL
 File PGP key ini tersedia pada portal Perusahaan 
  
 2.9. Anggota Tim  
-Ketua CSIRT Blibli.com adalah Coordinator Computer Security Incident yang ditunjuk. 
+Ketua CSIRT blibli adalah Coordinator Computer Security Incident yang ditunjuk. 
 Untuk anggota tim CSIRT terdiri dari personnel yang berada pada Unit Information Security di Blibli.  
  
 2.10. Informasi/Data lain  
 Tidak ada 
  	  
-2.11. Catatan-catatan pada Kontak CSIRT Blibli.com 
-Metode yang disarankan untuk menghubungi CSIRT Blibli.com adalah melalui e-mail pada alamat csirt@gdn-commerce.com atau melalui nomor telepon +62-2150881370. 
+2.11. Catatan-catatan pada Kontak CSIRT blibli 
+Metode yang disarankan untuk menghubungi CSIRT blibli adalah melalui e-mail pada alamat csirt@gdn-commerce.com atau melalui nomor telepon +62-2150881370. 
  
  
-3. Mengenai CSIRT Blibli.com 
+3. Mengenai CSIRT blibli 
 3.1. Visi 
 Meningkatkan pengalaman perdagangan digital melalui peningkatan keamanan siber. 
 3.2. Misi 
-Misi dari CSIRT Blibli.com, yaitu :  
+Misi dari CSIRT blibli, yaitu :  
 a.	Memberikan pelayanan teknologi yang bertujuan terbentuknya ketahanan dan kehandalan siber yang menunjang tujuan bisnis 
  
 b.	Memberikan edukasi dan kesadaran siber pada karyawan serta pihak lain yang terkait dengan tujuan meningkatkan ketahanan siber 
@@ -90,9 +90,9 @@ b.	Memberikan edukasi dan kesadaran siber pada karyawan serta pihak lain yang te
 c.	Memberikan informasi temuan kerentanan, potensi serangan serta informasi tentang intelijen siber lainnya yang bertujuan agar terbentuknya ekosistem ketahanan siber 
  
 3.3. Konstituen 
-Konstituen CSIRT Blibli.com meliputi seluruh pengguna teknologi informasi di lingkungan Perusahaan. 
+Konstituen CSIRT blibli meliputi seluruh pengguna teknologi informasi di lingkungan Perusahaan. 
 3.4. Sponsorship dan/atau Afiliasi 
-Pendanaan CSIRT Blibli.com bersumber dari anggaran perusahaan. 
+Pendanaan CSIRT blibli bersumber dari anggaran perusahaan. 
  
 3.5. Otoritas  
 1.	Menentukan penilaian tingkat keamanan informasi pada proses bisnis yang sedang atau yang akan berlangsung 
@@ -106,7 +106,7 @@ internal dan eksternal, akses terhadap data dan sistem dalam hal penanganan insi
  
 4. Kebijakan – Kebijakan 
 4.1. Jenis-jenis Insiden dan Tingkat/Level Dukungan  
-CSIRT Blibli.com melayani penanganan insiden siber di Perusahaan dengan jenis berikut: 
+CSIRT blibli melayani penanganan insiden siber di Perusahaan dengan jenis berikut: 
  Layanan utama 
  Pemberian peringatan terkait keamanan siber 
  Penanganan insiden siber 
@@ -122,22 +122,22 @@ CSIRT Blibli.com melayani penanganan insiden siber di Perusahaan dengan jenis be
  
  
 4.2. Kerja sama, Interaksi dan Pengungkapan Informasi/ data 
-CSIRT Blibli.com akan melakukan kerjasama dan berbagi informasi dengan CSIRT atau organisasi lainnya dalam lingkup keamanan siber. Seluruh informasi yang diterima oleh CSIRT Blibli.com akan dirahasiakan. 
+CSIRT blibli akan melakukan kerjasama dan berbagi informasi dengan CSIRT atau organisasi lainnya dalam lingkup keamanan siber. Seluruh informasi yang diterima oleh CSIRT blibli akan dirahasiakan. 
  
 4.3. Komunikasi dan Autentikasi 
-Untuk komunikasi bersifat biasa ke CSIRT Blibli.com dapat menggunakan e-mail tanpa enkripsi data khusus (e-mail konvensional) dan telepon. Namun, untuk komunikasi yang memuat informasi sensitif/terbatas/rahasia dapat menggunakan enkripsi PGP/RSA pada e-mail atau lampiran email. 
+Untuk komunikasi bersifat biasa ke CSIRT blibli dapat menggunakan e-mail tanpa enkripsi data khusus (e-mail konvensional) dan telepon. Namun, untuk komunikasi yang memuat informasi sensitif/terbatas/rahasia dapat menggunakan enkripsi PGP/RSA pada e-mail atau lampiran email. 
  
  
 5. Layanan  
 5.1. Layanan Utama  
-Layanan utama dari CSIRT Blibli.com yaitu : 
+Layanan utama dari CSIRT blibli yaitu : 
 5.1.1. Pemberian Peringatan Terkait Keamanan Siber 
-Layanan ini akan dilaksanakan oleh CSIRT Blibli.com yang berupa peringatan akan adanya ancaman siber kepada pemilik/penyelenggara sistem elektronik. 
+Layanan ini akan dilaksanakan oleh CSIRT blibli yang berupa peringatan akan adanya ancaman siber kepada pemilik/penyelenggara sistem elektronik. 
  
 5.1.2. Penanganan Insiden Siber 
 Layanan penanganan insiden siber mencakup siklus penuh penanganan insiden. Penanganan dapat dilaksanakan dengan on-site secara langsung atau pemberian saran penanganan untuk ditindaklanjuti. 
  
-5.2. Layanan Tambahan (ikut IETF CSIRT Blibli.com -  Proactive Activities) Layanan tambahan dari CSIRT Blibli.com yaitu : 
+5.2. Layanan Tambahan (ikut IETF CSIRT blibli -  Proactive Activities) Layanan tambahan dari CSIRT blibli yaitu : 
 5.2.1. Penanganan Kerawanan Sistem Elektronik 
 •	Layanan ini berupa koordinasi, analisis dan rekomendasi teknis dalam rangka penguatan aspek kendali keamanan (security control) baik dalam lingkup teknis ataupun non-teknis (Policy/Governance).  
 •	Secara umum penanganan ini dibagi menjadi : 
@@ -147,10 +147,10 @@ o	Layanan penanganan kerawanan sebagai tindak lanjut dari kegiatan audit atau vu
 Layanan penanganan artefak digital dilakukan dalam rangka menjaga sebaik mungkin proses chain-of-custody yang mungkin diperlukan dalam rangka penyidikan oleh penegak hukum atau sebagai sarana investigasi teknis insiden. 
  
 5.2.3. Pemberitahuan Hasil Pengamatan Potensi Ancaman 
-Layanan ini diberikan dari hasil pengamatan oleh fungsi intelijen siber milik CSIRT Blibli.com terhadap aset digital milik konstituen. 
+Layanan ini diberikan dari hasil pengamatan oleh fungsi intelijen siber milik CSIRT blibli terhadap aset digital milik konstituen. 
  
 5.2.4. Pendeteksian Serangan 
-Layanan ini diberikan apabila CSIRT Blibli.com memiliki visibilitas atas sistem keamanan yang diterapkan oleh konstituen, serangan pada konstituen akan dikorelasikan untuk memperkuat postur secara keseluruhan 
+Layanan ini diberikan apabila CSIRT blibli memiliki visibilitas atas sistem keamanan yang diterapkan oleh konstituen, serangan pada konstituen akan dikorelasikan untuk memperkuat postur secara keseluruhan 
  
 5.2.5. Analisis Risiko Keamanan Siber 
 Layanan ini diberikan dengan tujuan sebagai fungsi perkiraan terhadap attack surface milik konstituen, layanan ini diberikan secara berkala sesuai dengan periode audit kepatuhan 
